@@ -54,3 +54,6 @@ nmap -sS -sV -O 192.168.1.0/24
 - tcp.flags.syn == 1 && tcp.flags.ack == 1	
 - tcp.flags.reset == 1
 
+-----
+
+> 📌 Note: Due to technical limitations, the Nmap scan outputs were captured as screenshots instead of saved as files.
